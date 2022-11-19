@@ -1,5 +1,3 @@
-//Design (верстка) made not by me !!!
-
 import { Component } from "react";
 
 import AppInfo from "../app-info/app-info";
